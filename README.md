@@ -5,11 +5,11 @@ The purpose of this analysis is to determine the best machine learning model tha
 ## Results
 |  Machine Learning Models Results | 
 | ------------- | 
-|• **Naive Random Oversampling**: Balanced accuracy score of 0.5442.|
+|• **Naive Random Oversampling**: Balanced accuracy score of 0.6573.|
 | ![Naive Random Oversampling](https://user-images.githubusercontent.com/111667387/209897500-ea635d3e-a406-4995-8880-54fcc35e56f5.jpg)| 
 |• **SMOTE Oversampling**: Balanced accuracy score of 0.6622.|
 |![SMOTE Oversampling](https://user-images.githubusercontent.com/111667387/209897528-60a04e48-29e3-4d3d-9f7b-58703a66d34a.jpg)| 
-|• **Undersampling**: Balanced accuracy score of 0.5442.|
+|• **Undersampling**: Balanced accuracy score of 0.5443.|
 |![Undersampling](https://user-images.githubusercontent.com/111667387/209897551-41f97bf2-c8d3-4fad-83da-98ab32285681.jpg)| 
 |• **Combination Sampling**: Balanced accuracy score of 0.6876.|
 |![Combination Sampling](https://user-images.githubusercontent.com/111667387/209897559-36249741-d555-4c53-966c-d827b2f04162.jpg)| 
