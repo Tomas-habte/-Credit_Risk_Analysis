@@ -18,3 +18,4 @@ The purpose of this analysis is to determine the best machine learning model tha
 |• **Easy Ensemble AdaBoost Classifier**: Balanced accuracy score of 0.9317.|
 |![Easy Ensemble AdaBoost Classifier ](https://user-images.githubusercontent.com/111667387/209897571-4585faf9-6547-4c4d-a262-565414937569.jpg)| 
 ## Summary
+The results above shows that there is a significant difference in the ability of a ML model to predict risk depending on the model used. For example, Native Random Oversampling had a much lower sensitivity score (0.40) than Easy Ensemble AdaBoost Classifier (0.94). Since credit risk is a classification problem, we can use the F1 Score as a key performance metric for the models. Easy Ensemble AdaBoost Classifier has the highest F1 score (0.97) so we recommend that this model is used. 
